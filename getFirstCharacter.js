@@ -3,7 +3,6 @@
 function getFirstCharacter(sentence) {
   var index = 0;
   var firstCharacter = sentence.charAt(index);
-  sentence.charAt(index);
   return firstCharacter;
 }
 
